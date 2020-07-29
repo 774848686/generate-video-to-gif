@@ -1,0 +1,35 @@
+@media screen and (max-width: 960px) {
+  .banner {
+    min-height: 465px;
+  }
+}
+ul,
+li {
+  list-style: none;
+}
+p,
+div,
+ul,
+li {
+  padding: 0;
+  margin: 0;
+}
+input {
+  outline-style: none;
+  border: 0px;
+}
+.flex-v-center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.flex-around {
+  display: flex;
+  justify-content: space-around;
+}
