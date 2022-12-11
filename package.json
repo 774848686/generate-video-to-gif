@@ -19,7 +19,7 @@
     "gif.js.optimized": "^1.0.1",
     "normalize.css": "^8.0.1",
     "omggif": "^1.0.9",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "svg-sprite-loader": "^4.1.6",
     "vant": "^2.5.5",
     "vue": "^2.6.10",
